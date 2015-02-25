@@ -4,5 +4,5 @@ Custom JavaScript, CSS & images for the SIS project
 
 ## Styleguides
 
-* [docs/styleguides/javascript.md](JavaScript)
-* [docs/styleguides/css.md](CSS)
+* [JavaScript](docs/styleguides/javascript.md)
+* [CSS](docs/styleguides/css.md)
